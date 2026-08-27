@@ -37,7 +37,7 @@
 - ☕ Java
 - 🗄️ SQL & MySQL
 - 🧩 Data Structures & Algorithms
-- ⚙️ Software Engineering
+- ⚙️ Spring Boot
 - 🔗 JDBC
 - 🌐 Web Development
 
