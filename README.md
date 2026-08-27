@@ -43,13 +43,7 @@
 
 ## 💻 Projects
 
-### 📚 MyLibrary
-
-A library management system built using:
-
-**Java + MySQL + JDBC**
-
-More projects coming soon... 🚀
+projects coming soon... 🚀
 
 ## 🎯 Goals
 
