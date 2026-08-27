@@ -80,5 +80,3 @@ More projects coming soon... 🚀
 </p>
 
 ---
-
-⭐ Thanks for visiting my profile!
