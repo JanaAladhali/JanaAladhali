@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Jana 👋🏻
 
-<!--
-**JanaAladhali/JanaAladhali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Aspiring Software Developer  
+🌱 Always learning and building new things
 
-Here are some ideas to get you started:
+## 👩🏻‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Software Development
+- 🗄️ Interested in Databases and SQL
+- 🧩 Learning Data Structures & Algorithms
+- ⚙️ Interested in Software Engineering
+- 🚀 I enjoy building projects and learning new technologies
+
+## 🛠️ Skills
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+
+</p>
+
+## 📚 Currently Learning
+
+- ☕ Java
+- 🗄️ SQL & MySQL
+- 🧩 Data Structures & Algorithms
+- ⚙️ Software Engineering
+- 🔗 JDBC
+- 🌐 Web Development
+
+## 💻 Projects
+
+### 📚 MyLibrary
+
+A library management system built using:
+
+**Java + MySQL + JDBC**
+
+More projects coming soon... 🚀
+
+## 🎯 Goals
+
+- 🚀 Build real-world software projects
+- 💻 Improve my programming skills
+- 🧠 Become a better problem solver
+- 🗄️ Improve my database skills
+- 🌱 Learn new technologies
+- 💼 Build a strong software engineering portfolio
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+
+
+<a href="mailto:jana.aladhali@gmailcom">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/jana-aladhali-660430363/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
